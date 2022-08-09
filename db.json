@@ -1,15 +1,15 @@
 {
     "company": {
         "name": "Freelance.nl",
-        "color": "",
+        "color": null,
         "url": "http://mijn.freelance.nl/company-name",
-        "backgroundUrl": "/resources/cache/companybackground-10/197195-.webp",
-        "logoUrl": "/resources/cache/company-10/197196-.webp",
+        "backgroundUrl": "http://mijn.freelance.nl/resources/cache/companybackground-10/197195-.webp",
+        "logoUrl": "http://mijn.freelance.nl/resources/cache/company-10/197196-.webp",
         "properties": {
-            "rating": "",
+            "rating": null,
             "registerDate": 1056977954,
-            "gdprApproved": "",
-            "gdprOfficer": "",
+            "gdprApproved": null,
+            "gdprOfficer": null,
             "employees": "26",
             "projects": "2/2",
             "lastReview": "Top communicatie"
