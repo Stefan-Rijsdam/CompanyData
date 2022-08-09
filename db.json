@@ -3,8 +3,8 @@
         "name": "Freelance.nl",
         "color": null,
         "url": "http://mijn.freelance.nl/company-name",
-        "backgroundUrl": "http://mijn.freelance.nl/resources/cache/companybackground-10/197195-.webp",
-        "logoUrl": "http://mijn.freelance.nl/resources/cache/company-10/197196-.webp",
+        "backgroundUrl": "http://mijn.freelance.nl/resources/companybackground-10/197195-.webp",
+        "logoUrl": "http://mijn.freelance.nl/resources/company-10/197196-.webp",
         "properties": {
             "rating": null,
             "registerDate": 1056977954,
